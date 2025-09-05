@@ -1,13 +1,22 @@
 # Python Week 5 Assignment – Object-Oriented Programming
 
-## Overview
+## 📚 Overview
 
-This repository contains two Python programs designed to explore Object-Oriented Programming (OOP) concepts such as classes, inheritance, encapsulation, and polymorphism.
+This repository contains two Python programs designed to explore Object-Oriented Programming (OOP) concepts such as:
 
-- **superhero.py** — Defines a `Superhero` class and a subclass `Mutant` demonstrating constructors, attributes, methods, encapsulation, and inheritance.
-- **transport.py** — Implements a polymorphism example with different `Vehicle` subclasses overriding a shared method `move()`.
+- Class creation
+- Inheritance
+- Encapsulation
+- Polymorphism
 
-## Features
+### Files included:
+
+- `superhero.py` — Defines a `Superhero` class and a subclass `Mutant`, demonstrating constructors, attributes, methods, encapsulation, and inheritance.
+- `transport.py` — Implements polymorphism with different `Vehicle` subclasses overriding a shared `move()` method.
+
+---
+
+## ⚙️ Features
 
 - Class creation with constructors (`__init__`)
 - Encapsulation using private attributes
@@ -15,20 +24,23 @@ This repository contains two Python programs designed to explore Object-Oriented
 - Polymorphism with common interface methods
 - Sample usage demonstrating OOP concepts in action
 
-## License
+## ▶️ Usage
 
-This project is licensed under the [MIT License](./LICENSE).
-
-## Author
-
-**Name:** Augusto Mate  
-mate.augusto.mz@gmail.com  
-**Location:** Matola, Mozambique
-
-## Usage
-
-Run each script independently:
+Run each script independently from the terminal:
 
 ```bash
 python superhero.py
-python transport.py
+python transport.py  
+```
+
+---
+
+## 🪪 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+## 👤 Author
+
+**Name:** Augusto Mate  
+**Email:** mate.augusto.mz@gmail.com  
+**Location:** Matola, Mozambique
