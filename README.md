@@ -2,12 +2,12 @@
 
 ## 📚 Overview
 
-This repository contains two Python programs designed to explore key Object-Oriented Programming (OOP) concepts:
+This repository contains two Python programs designed to explore key Object-Oriented Programming (OOP) concepts.
 
-- `superhero.py` — Demonstrates class creation, inheritance, encapsulation, and method overriding.
-- `transport.py` — Illustrates polymorphism through different `Vehicle` subclasses each implementing `move()` uniquely.
+##  Files Included
 
----
+- `superhero.py` — Demonstrates constructors, inheritance, encapsulation, and method overriding via a `Mutant` subclass.
+- `transport.py` — Polymorphism example: `Car`, `Plane`, and `Boat` override the shared method `move()` differently.
 
 ##  Features
 
@@ -17,18 +17,14 @@ This repository contains two Python programs designed to explore key Object-Orie
 - Polymorphism in practice
 - Clear, maintainable code with example usage
 
----
-
 ## ▶ Usage
 
-Run each script independently:
+Run each script using your terminal:
 
 ```bash
 python superhero.py
 python transport.py  
 ```
-
----
 
 ## 🪪 License
 
