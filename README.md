@@ -1,32 +1,27 @@
-# Python Week 5 Assignment – Object-Oriented Programming
+# 🐍 Python Week 5 Assignment – Object-Oriented Programming
 
 ## 📚 Overview
 
-This repository contains two Python programs designed to explore Object-Oriented Programming (OOP) concepts such as:
+This repository contains two Python programs designed to explore key Object-Oriented Programming (OOP) concepts:
 
-- Class creation
-- Inheritance
-- Encapsulation
-- Polymorphism
-
-### Files included:
-
-- `superhero.py` — Defines a `Superhero` class and a subclass `Mutant`, demonstrating constructors, attributes, methods, encapsulation, and inheritance.
-- `transport.py` — Implements polymorphism with different `Vehicle` subclasses overriding a shared `move()` method.
+- `superhero.py` — Demonstrates class creation, inheritance, encapsulation, and method overriding.
+- `transport.py` — Illustrates polymorphism through different `Vehicle` subclasses each implementing `move()` uniquely.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-- Class creation with constructors (`__init__`)
-- Encapsulation using private attributes
-- Inheritance and method overriding
-- Polymorphism with common interface methods
-- Sample usage demonstrating OOP concepts in action
+- Constructors using `__init__`
+- Encapsulation via private attributes
+- Class inheritance and method overriding
+- Polymorphism in practice
+- Clear, maintainable code with example usage
 
-## ▶️ Usage
+---
 
-Run each script independently from the terminal:
+## ▶ Usage
+
+Run each script independently:
 
 ```bash
 python superhero.py
